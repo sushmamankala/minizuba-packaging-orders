@@ -1,4 +1,4 @@
-# message-interface
+## Minizuba Packaging Orders
 
 ## Project setup
 ```
@@ -15,10 +15,12 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
+### Project structure
 ```
-npm run lint
+Minizuba Packaging Orders
+When no filters are applied all orderlines are displayed
+Based on quantity, orderlines are shown
+Lazy loading for Orderlines
+Rich and responsive UI
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
